@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DWgame2",
+"productVersion": "0.1",
+"dataUrl": "dwgamw_0.1.data.unityweb",
+"wasmCodeUrl": "dwgamw_0.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "dwgamw_0.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
